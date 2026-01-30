@@ -7,10 +7,12 @@ The program reads a graph from a file (matrix.txt), displays the adjacency matri
 Breadth-First Search (BFS) — explores the graph level by level using a queue.
 Depth-First Search (DFS) — explores the graph depth-wise using recursion.
 
-📂 Project Structure
-├── main.cpp        // Source code
-├── matrix.txt      // Adjacency matrix input file
-└── README.md       // Project description
+📁 Project Structure
+.
+├── main.cpp    // Source code
+├── matrix.txt  // Adjacency matrix input file
+└── README.md   // Project description
+
 
 📥 Input
 
