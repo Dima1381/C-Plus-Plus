@@ -8,10 +8,9 @@ Breadth-First Search (BFS) — explores the graph level by level using a queue.
 Depth-First Search (DFS) — explores the graph depth-wise using recursion.
 
 📁 Project Structure
-.
-├── main.cpp    // Source code
-├── matrix.txt  // Adjacency matrix input file
-└── README.md   // Project description
+─ main.cpp    // Source code
+─ matrix.txt  // Adjacency matrix input file
+─ README.md   // Project description
 
 
 📥 Input
