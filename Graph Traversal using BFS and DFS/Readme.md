@@ -28,8 +28,11 @@ Matrix size is fixed at 10 × 10
 Example (matrix.txt):
 
 0 1 0 0 1 0 0 0 0 0
+
 1 0 1 0 0 0 0 0 0 0
+
 0 1 0 1 0 0 0 0 0 0
+
 ...
 
 🎓 Purpose
